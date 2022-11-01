@@ -1,0 +1,11 @@
+.notFound {
+  height: 500px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.notFound {
+  font-size: 2rem;
+  font-weight: bold;
+}
