@@ -1,8 +1,8 @@
 import React from "react";
 
 import "./Home.css";
-import Banner from "./Banner";
-import Card from "./Card";
+import Banner from "../components/Banner";
+import Card from "../components/Card";
 
 const Home = () => {
   return (

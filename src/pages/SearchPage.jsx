@@ -2,7 +2,7 @@ import React from "react";
 import Button from "@mui/material/Button";
 
 import "./SearchPage.css";
-import SearchResult from "./SearchResult";
+import SearchResult from "../components/SearchResult";
 
 const SearchPage = () => {
   return (
